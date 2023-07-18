@@ -1,0 +1,18 @@
+{
+    "medicine": [
+        {
+            "id": 0,
+            "name":"Evothral-250",
+            "productId":100,
+            "flag":"A",
+            "timestamp":"1689700841"
+        },
+        {
+            "id": 1,
+            "name":"Evomox-CV 625",
+            "productId":101,
+            "flag":"A",
+            "timestamp":"1689704441"
+        }
+    ]
+}
